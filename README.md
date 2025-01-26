@@ -1,6 +1,10 @@
 # Spring Boot Microservices Course
 This repository contains the source code for the [Spring Boot Microservices Course](https://www.youtube.com/playlist?list=PLuNxlOYbv61g_ytin-wgkecfWDKVCEDmB).
 
+
+- https://www.sivalabs.in/spring-security-oauth2-tutorial-microservices-project-setup/
+  
+
 ![Spring Boot Microservices course](docs/youtube-thumbnail.png)
 
 We will build a BookStore application using Spring Boot, Spring Cloud, and Docker.
